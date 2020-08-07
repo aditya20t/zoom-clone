@@ -2,6 +2,7 @@
 
 #### Try it out with your friends [here](https://sleepy-journey-94104.herokuapp.com/)
 **Share the URL with your friends to connect to them.**
+**🌟 this repo if you like it.**
 
 ### Tech Stack used
 - ExpressJS
